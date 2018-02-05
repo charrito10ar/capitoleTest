@@ -1,0 +1,16 @@
+<resources>
+    <string name="api_key_movies" translatable="false">93aea0c77bc168d8bbce3918cefefa45</string>
+    <string name="app_name">MoviesApp</string>
+    <string name="title_activity_main">Most Popular</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="most_popular_txt">Most popular</string>
+    <string name="search_movie_hint">Start writing the title of the movie</string>
+    <string name="movie_release">Year: %s</string>
+    <string name="empty_result_txt">No results found. Try looking for other movies</string>
+</resources>
